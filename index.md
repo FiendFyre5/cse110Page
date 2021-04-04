@@ -27,9 +27,10 @@ git commit
 ```
 3. **Status**
      - [x] Finish writing the code
-     - [ ] Push my commits to GitHub
+     - [x] Push my commits to GitHub
      - [ ] Fix issues and update again
 This site was built using [GitHub Pages](https://pages.github.com/).
 To go to the top [Click Here](#About)
 
-Another relative link way to do that is [Click Here](https://github.com/FiendFyre5/cse110Page/blob/add-gitignore/index.md#about)
+Another section link way to do that is [Click Here](https://github.com/FiendFyre5/cse110Page/blob/add-gitignore/index.md#about)
+[Link to the README](README.md)
