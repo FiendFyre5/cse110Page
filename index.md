@@ -31,3 +31,5 @@ git commit
      - [ ] Fix issues and update again
 This site was built using [GitHub Pages](https://pages.github.com/).
 To go to the top [Click Here](#About)
+
+Another relative link way to do that is [Click Here](https://github.com/FiendFyre5/cse110Page/blob/add-gitignore/index.md#about)
