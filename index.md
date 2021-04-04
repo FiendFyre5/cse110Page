@@ -6,7 +6,7 @@
    I'm currently doing my research under Prof Niema Moshiri to build Scalable tools for studying viral evolution. Our research is geared upon inferring properties of a real epidemic using only viral sequences learned from the various dependencies of virus transmissions and the patient's genomic sequences.
 
    In my free time, you can find me painting my heart out or hiking. I have also been part of a Teaching and Mentoring program for middle school and budding high school kids for the past 4 years. We have been working to increase Diversity and engagement of underepresented students in STEM fields.
-1. # Research & Teaching
+1.  **Research & Teaching**
     * Oct 2020 - June 2020
     **Undergraduate Researcher with ERSP**
     * Advisors: **Professor Niema Moshiri** *
