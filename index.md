@@ -1,6 +1,8 @@
 ## LAVANYA VERMA
 # About
 <img src="https://miro.medium.com/max/2560/1*UBPbXxCACLSygvXutPPGSA.jpeg" height="200" width = "300">
+
+
    I'm a Computer Science, Mathematics and Machine learning enthusiast, working towards a BS in Computer Science at UC San Diego, with an expected graduation date of June 2023.
 
    I'm currently doing my research under Prof Niema Moshiri to build Scalable tools for studying viral evolution. Our research is geared upon inferring properties of a real epidemic using only viral sequences learned from the various dependencies of virus transmissions and the patient's genomic sequences.
