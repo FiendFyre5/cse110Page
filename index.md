@@ -10,10 +10,10 @@
     * Oct 2020 - June 2020
     **Undergraduate Researcher with ERSP**
     * Advisors: **Professor Niema Moshiri** *
-     -Topic: Scalable tools for studying viral evolution and epidemiology
-     -Taking advantage of the transmission history of viruses like SARS-CoV-2 and HIV which strongly influences genomic sequences of the viral smaple collected from patients.
-     -Using these dependencies to somehow infer properties of a real epidemic using only virus sequences.
-     -The goal of this project is to develop and use tools for studying viral evolution and tranmission from viral sequences collected from patients.
+      - Topic: Scalable tools for studying viral evolution and epidemiology
+      - Taking advantage of the transmission history of viruses like SARS-CoV-2 and HIV which strongly influences genomic sequences of the viral smaple collected from patients.
+      - Using these dependencies to somehow infer properties of a real epidemic using only virus sequences.
+      - The goal of this project is to develop and use tools for studying viral evolution and tranmission from viral sequences collected from patients.
 
 In the words of Itadori Yuji's Grandpa:
 >It doesn't have to be everyone, just help the people around you,
@@ -33,4 +33,5 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 To go to the top [Click Here](#About)
 
 Another section link way to do that is [Click Here](https://github.com/FiendFyre5/cse110Page/blob/add-gitignore/index.md#about)
-[Link to the README](README.md)
+
+A relative link to another .md file is [Link to the README](README.md)
