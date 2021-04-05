@@ -20,23 +20,32 @@ as much as you can.
       - Taking advantage of the transmission history of viruses like SARS-CoV-2 and HIV which strongly influences genomic sequences of the viral smaple collected from patients.
       - Using these dependencies to somehow infer properties of a real epidemic using only virus sequences.
       - The goal of this project is to develop and use tools for studying viral evolution and tranmission from viral sequences collected from patients.
+      - * Some of the code from there would be:
+         ```
+         def get_time_difference_in_second(d1, d2):
+            d1 = datetime.strptime(d1, '%Y-%m-%d')
+            d2 = datetime.strptime(d2, '%Y-%m-%d')
+            diff = d1-d2
+            return diff.total_seconds()
+         ```
+Do you wanna go back to the to my about again? [Click Here](https://github.com/FiendFyre5/cse110Page/blob/add-gitignore/index.md#about)
 
-2. **Quoting some code**
-   * Some basic Git commands are:
-```
-git status
-git add
-git commit
-```
-3. **Status**
-     - [x] Finish writing the code
-     - [x] Push my commits to GitHub
-     - [ ] Fix issues and update again
+2. **Web Development Intern @ NIC, Govt. of Chhattisgarh, India**
+   * Summer 2018 and 2019 
+     - Developed a grievance redressal website for the villagers to replace the hefty manual process.
+     - Researched and analyzed the population and designed a customized website
+     - Online platform switchover helped 28,000 people including saving the daily wages of laborers.
+     
+3. **Summer 2021 Status**
+     - [x] Secured an Internship at ServiceNow 
+     - [ ] Finish up the last few steps of my research
+     - [ ] Finish project on Gans
 
-This site was built using [GitHub Pages](https://pages.github.com/).
+You can look at my Occupancy Level Tracker App [here](https://github.com/FiendFyre5/Occupancy_Level_Tracker).
 
 To go to the top [Click Here](#About)
 
-Another section link way to do that is [Click Here](https://github.com/FiendFyre5/cse110Page/blob/add-gitignore/index.md#about)
+A relative link to access the readme file for this assignment is [Link to the README](README.md)
 
-A relative link to another .md file is [Link to the README](README.md)
+Disclaimer: This small project was built as a part of my cse 110 lab assignment :)
+
