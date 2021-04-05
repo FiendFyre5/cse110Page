@@ -44,9 +44,9 @@ Do you wanna go back to the to my about again? [Click Here](https://github.com/F
 
 You can look at my **Occupancy Level Tracker App** [here](https://github.com/FiendFyre5/Occupancy_Level_Tracker).
 
-To go to the top [Click Here](#About)
+To go to the top [Click Here](#about)
 
 A relative link to access the readme file for this assignment is [Link to the README](README.md)
 
-_Disclaimer: This small project was built as a part of my cse 110 lab assignment :) _
+*Disclaimer: This small project was built as a part of my cse 110 lab assignment :)*
 
