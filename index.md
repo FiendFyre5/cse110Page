@@ -16,7 +16,7 @@ as much as you can.
 1. **Undergraduate Researcher with ERSP**
    * _Oct 2020 - June 2020_
    
-    * Advisors: **Professor Niema Moshiri**
+    * Advisors: **Professor [Niema Moshiri](https://niema.net/)**
       - Topic: Scalable tools for studying viral evolution and epidemiology
       - Taking advantage of the transmission history of viruses like SARS-CoV-2 and HIV which strongly influences genomic sequences of the viral smaple collected from patients.
       - Using these dependencies to somehow infer properties of a real epidemic using only virus sequences.
@@ -29,7 +29,6 @@ as much as you can.
             diff = d1-d2
             return diff.total_seconds()
          ```
-Do you wanna go back to the to my about again? [Click Here](https://github.com/FiendFyre5/cse110Page/blob/add-gitignore/index.md#about)
 
 2. **Web Development Intern @ NIC, Govt. of Chhattisgarh, India**
    * _Summer 2018 and 2019_ 
@@ -45,6 +44,8 @@ Do you wanna go back to the to my about again? [Click Here](https://github.com/F
 You can look at my **Occupancy Level Tracker App** [here](https://github.com/FiendFyre5/Occupancy_Level_Tracker).
 
 To go to the top [Click Here](#about)
+
+Do you wanna go back to my about section on github? [Click Here](https://github.com/FiendFyre5/cse110Page/blob/add-gitignore/index.md#about)
 
 A relative link to access the readme file for this assignment is [Link to the README](README.md)
 
